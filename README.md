@@ -1,2 +1,1 @@
-# Prepcouser-henry
-este es un repositorio de prueba modulo 2 del prepcouser de henry
+este proyecto es una prueba para aprender el uso de los repositorios 
